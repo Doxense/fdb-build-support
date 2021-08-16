@@ -17,7 +17,6 @@ import shutil
 import io
 import random
 
-
 _logger = None
 
 def init_logging(loglevel, logdir):
